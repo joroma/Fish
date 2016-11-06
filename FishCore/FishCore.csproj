@@ -40,9 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Entity.cs" />
+    <Compile Include="Objects\Account.cs" />
+    <Compile Include="Objects\AccountType.cs" />
     <Compile Include="Objects\ExpenseType.cs" />
+    <Compile Include="Objects\Transaction.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
