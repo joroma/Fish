@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fish", "Fish\Fish.csproj", "{6F159DD5-46D2-47A0-850D-F21F2C0F3B57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishCore", "FishCore\FishCore.csproj", "{297C6254-6569-40EA-95F2-3588731DF59E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishDAL", "FishDAL\FishDAL.csproj", "{7639AB77-C76B-4326-A914-B662D0B796F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6F159DD5-46D2-47A0-850D-F21F2C0F3B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F159DD5-46D2-47A0-850D-F21F2C0F3B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F159DD5-46D2-47A0-850D-F21F2C0F3B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{297C6254-6569-40EA-95F2-3588731DF59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{297C6254-6569-40EA-95F2-3588731DF59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{297C6254-6569-40EA-95F2-3588731DF59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{297C6254-6569-40EA-95F2-3588731DF59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7639AB77-C76B-4326-A914-B662D0B796F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7639AB77-C76B-4326-A914-B662D0B796F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7639AB77-C76B-4326-A914-B662D0B796F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7639AB77-C76B-4326-A914-B662D0B796F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
